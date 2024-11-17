@@ -726,11 +726,6 @@ public class SupplierInterface extends JFrame {
     }
     
     // Helper methods for calculations (implement these based on your data model)
-    private double calculateAverageSellingPrice(Product product) {
-        // TODO: Implement actual calculation based on order history
-        return product.getTargetPrice() * (0.9 + Math.random() * 0.2);  // Sample data
-    }
-    
     private int calculateSalesVolume(Product product) {
         // TODO: Implement actual calculation based on order history
         return (int)(Math.random() * 100);  // Sample data

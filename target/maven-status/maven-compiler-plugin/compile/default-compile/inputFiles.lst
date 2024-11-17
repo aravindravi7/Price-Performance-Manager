@@ -1,37 +1,56 @@
-/Users/nidhinair/Downloads/PricingModel/src/main/java/model/MarketModel/Market.java
-/Users/nidhinair/Downloads/PricingModel/src/main/java/model/UserAccountManagement/UserAccount.java
-/Users/nidhinair/Downloads/PricingModel/src/main/java/model/OrderManagement/Order.java
-/Users/nidhinair/Downloads/PricingModel/src/main/java/model/SalesManagement/SalesPersonDirectory.java
-/Users/nidhinair/Downloads/PricingModel/src/main/java/model/ProductManagement/SolutionOffer.java
-/Users/nidhinair/Downloads/PricingModel/src/main/java/model/Personnel/CustomerAccount.java
-/Users/nidhinair/Downloads/PricingModel/src/main/java/model/ProductManagement/Product.java
-/Users/nidhinair/Downloads/PricingModel/src/main/java/model/ProductManagement/SolutionOfferCatalog.java
-/Users/nidhinair/Downloads/PricingModel/src/main/java/model/Personnel/Profile.java
-/Users/nidhinair/Downloads/PricingModel/src/main/java/model/CustomerManagement/CustomerProfile.java
-/Users/nidhinair/Downloads/PricingModel/src/main/java/model/OrderManagement/OrderItem.java
-/Users/nidhinair/Downloads/PricingModel/src/main/java/model/Supplier/Supplier.java
-/Users/nidhinair/Downloads/PricingModel/src/main/java/model/CustomerManagement/CustomersReport.java
-/Users/nidhinair/Downloads/PricingModel/src/main/java/model/Personnel/EmployeeDirectory.java
-/Users/nidhinair/Downloads/PricingModel/src/main/java/model/OrderManagement/MasterOrderReport.java
-/Users/nidhinair/Downloads/PricingModel/src/main/java/model/ProductManagement/ProductsReport.java
-/Users/nidhinair/Downloads/PricingModel/src/main/java/model/SalesManagement/SalesPersonProfile.java
-/Users/nidhinair/Downloads/PricingModel/src/main/java/model/OrderManagement/OrderSummary.java
-/Users/nidhinair/Downloads/PricingModel/src/main/java/model/MarketingManagement/MarketingPersonProfile.java
-/Users/nidhinair/Downloads/PricingModel/src/main/java/model/Personnel/Person.java
-/Users/nidhinair/Downloads/PricingModel/src/main/java/model/MarketModel/MarketChannelAssignment.java
-/Users/nidhinair/Downloads/PricingModel/src/main/java/model/Business/Business.java
-/Users/nidhinair/Downloads/PricingModel/src/main/java/model/Personnel/EmployeeProfile.java
-/Users/nidhinair/Downloads/PricingModel/src/main/java/model/CustomerManagement/MarketCatalog.java
-/Users/nidhinair/Downloads/PricingModel/src/main/java/model/UserAccountManagement/UserAccountDirectory.java
-/Users/nidhinair/Downloads/PricingModel/src/main/java/model/ProductManagement/ProductSummary.java
-/Users/nidhinair/Downloads/PricingModel/src/main/java/model/Business/ConfigureABusiness.java
-/Users/nidhinair/Downloads/PricingModel/src/main/java/model/CustomerManagement/ChannelCatalog.java
-/Users/nidhinair/Downloads/PricingModel/src/main/java/model/CustomerManagement/CustomerDirectory.java
-/Users/nidhinair/Downloads/PricingModel/src/main/java/model/ProductManagement/ProductCatalog.java
-/Users/nidhinair/Downloads/PricingModel/src/main/java/model/OrderManagement/MasterOrderList.java
-/Users/nidhinair/Downloads/PricingModel/src/main/java/model/MarketModel/Channel.java
-/Users/nidhinair/Downloads/PricingModel/src/main/java/model/MarketingManagement/MarketingPersonDirectory.java
-/Users/nidhinair/Downloads/PricingModel/src/main/java/ui/PricingModel.java
-/Users/nidhinair/Downloads/PricingModel/src/main/java/model/Supplier/SupplierDirectory.java
-/Users/nidhinair/Downloads/PricingModel/src/main/java/model/CustomerManagement/CustomerSummary.java
-/Users/nidhinair/Downloads/PricingModel/src/main/java/model/Personnel/PersonDirectory.java
+/Users/aravindravi/Desktop/Masters/Backup Git/v3/PricingModel/src/main/java/model/ProductManagement/ProductPerformanceReport.java
+/Users/aravindravi/Desktop/Masters/Backup Git/v3/PricingModel/src/main/java/model/Business/ProfitOptimizer.java
+/Users/aravindravi/Desktop/Masters/Backup Git/v3/PricingModel/src/main/java/model/ProductManagement/SolutionOffer.java
+/Users/aravindravi/Desktop/Masters/Backup Git/v3/PricingModel/src/main/java/model/Business/DataGenerator.java
+/Users/aravindravi/Desktop/Masters/Backup Git/v3/PricingModel/src/main/java/model/MarketModel/Channel.java
+/Users/aravindravi/Desktop/Masters/Backup Git/v3/PricingModel/src/main/java/ui/AdminInterface.java
+/Users/aravindravi/Desktop/Masters/Backup Git/v3/PricingModel/src/main/java/ui/SupplierInterface.java
+/Users/aravindravi/Desktop/Masters/Backup Git/v3/PricingModel/src/main/java/model/Business/ConfigurationManager.java
+/Users/aravindravi/Desktop/Masters/Backup Git/v3/PricingModel/src/main/java/model/OrderManagement/OrderSummary.java
+/Users/aravindravi/Desktop/Masters/Backup Git/v3/PricingModel/src/main/java/model/Business/OptimizationResult.java
+/Users/aravindravi/Desktop/Masters/Backup Git/v3/PricingModel/src/main/java/model/MarketingManagement/MarketingPersonDirectory.java
+/Users/aravindravi/Desktop/Masters/Backup Git/v3/PricingModel/src/main/java/model/Personnel/CustomerAccount.java
+/Users/aravindravi/Desktop/Masters/Backup Git/v3/PricingModel/src/main/java/model/ProductManagement/ProductsReport.java
+/Users/aravindravi/Desktop/Masters/Backup Git/v3/PricingModel/src/main/java/model/OrderManagement/MasterOrderList.java
+/Users/aravindravi/Desktop/Masters/Backup Git/v3/PricingModel/src/main/java/model/Personnel/EmployeeProfile.java
+/Users/aravindravi/Desktop/Masters/Backup Git/v3/PricingModel/src/main/java/model/ProductManagement/Product.java
+/Users/aravindravi/Desktop/Masters/Backup Git/v3/PricingModel/src/main/java/model/OrderManagement/MasterOrderReport.java
+/Users/aravindravi/Desktop/Masters/Backup Git/v3/PricingModel/src/main/java/ui/PriceOptimizationPanel.java
+/Users/aravindravi/Desktop/Masters/Backup Git/v3/PricingModel/src/main/java/model/Personnel/EmployeeDirectory.java
+/Users/aravindravi/Desktop/Masters/Backup Git/v3/PricingModel/src/main/java/model/SalesManagement/SalesPersonProfile.java
+/Users/aravindravi/Desktop/Masters/Backup Git/v3/PricingModel/src/main/java/model/CustomerManagement/CustomersReport.java
+/Users/aravindravi/Desktop/Masters/Backup Git/v3/PricingModel/src/main/java/model/ProductManagement/PricePerformanceMetrics.java
+/Users/aravindravi/Desktop/Masters/Backup Git/v3/PricingModel/src/main/java/model/Personnel/PersonDirectory.java
+/Users/aravindravi/Desktop/Masters/Backup Git/v3/PricingModel/src/main/java/model/ProductManagement/PriceProfile.java
+/Users/aravindravi/Desktop/Masters/Backup Git/v3/PricingModel/src/main/java/model/ProductManagement/SolutionOfferCatalog.java
+/Users/aravindravi/Desktop/Masters/Backup Git/v3/PricingModel/src/main/java/model/MarketModel/MarketChannelAssignment.java
+/Users/aravindravi/Desktop/Masters/Backup Git/v3/PricingModel/src/main/java/ui/PricingModel.java
+/Users/aravindravi/Desktop/Masters/Backup Git/v3/PricingModel/src/main/java/model/UserAccountManagement/UserAccount.java
+/Users/aravindravi/Desktop/Masters/Backup Git/v3/PricingModel/src/main/java/model/Business/ConfigureABusiness.java
+/Users/aravindravi/Desktop/Masters/Backup Git/v3/PricingModel/src/main/java/model/CustomerManagement/CustomerProfile.java
+/Users/aravindravi/Desktop/Masters/Backup Git/v3/PricingModel/src/main/java/model/Supplier/SupplierPerformance.java
+/Users/aravindravi/Desktop/Masters/Backup Git/v3/PricingModel/src/main/java/model/Business/Business.java
+/Users/aravindravi/Desktop/Masters/Backup Git/v3/PricingModel/src/main/java/model/CustomerManagement/CustomerSummary.java
+/Users/aravindravi/Desktop/Masters/Backup Git/v3/PricingModel/src/main/java/model/CustomerManagement/Customer.java
+/Users/aravindravi/Desktop/Masters/Backup Git/v3/PricingModel/src/main/java/model/SalesManagement/SalesPersonDirectory.java
+/Users/aravindravi/Desktop/Masters/Backup Git/v3/PricingModel/src/main/java/model/Personnel/Person.java
+/Users/aravindravi/Desktop/Masters/Backup Git/v3/PricingModel/src/main/java/model/UserAccountManagement/ActivityLog.java
+/Users/aravindravi/Desktop/Masters/Backup Git/v3/PricingModel/src/main/java/model/Personnel/PerformanceMetrics.java
+/Users/aravindravi/Desktop/Masters/Backup Git/v3/PricingModel/src/main/java/model/Supplier/SupplierDirectory.java
+/Users/aravindravi/Desktop/Masters/Backup Git/v3/PricingModel/src/main/java/model/CustomerManagement/ChannelCatalog.java
+/Users/aravindravi/Desktop/Masters/Backup Git/v3/PricingModel/src/main/java/model/MarketingManagement/MarketingPersonProfile.java
+/Users/aravindravi/Desktop/Masters/Backup Git/v3/PricingModel/src/main/java/model/Supplier/Supplier.java
+/Users/aravindravi/Desktop/Masters/Backup Git/v3/PricingModel/src/main/java/model/Personnel/Profile.java
+/Users/aravindravi/Desktop/Masters/Backup Git/v3/PricingModel/src/main/java/model/OrderManagement/Order.java
+/Users/aravindravi/Desktop/Masters/Backup Git/v3/PricingModel/src/main/java/model/UserAccountManagement/UserAccountDirectory.java
+/Users/aravindravi/Desktop/Masters/Backup Git/v3/PricingModel/src/main/java/model/CustomerManagement/CustomerDirectory.java
+/Users/aravindravi/Desktop/Masters/Backup Git/v3/PricingModel/src/main/java/model/Business/PriceSimulation.java
+/Users/aravindravi/Desktop/Masters/Backup Git/v3/PricingModel/src/main/java/model/OrderManagement/OrderItem.java
+/Users/aravindravi/Desktop/Masters/Backup Git/v3/PricingModel/src/main/java/ui/LoginScreen.java
+/Users/aravindravi/Desktop/Masters/Backup Git/v3/PricingModel/src/main/java/model/CustomerManagement/MarketCatalog.java
+/Users/aravindravi/Desktop/Masters/Backup Git/v3/PricingModel/src/main/java/model/MarketModel/Market.java
+/Users/aravindravi/Desktop/Masters/Backup Git/v3/PricingModel/src/main/java/model/Business/PriceOptimizationEngine.java
+/Users/aravindravi/Desktop/Masters/Backup Git/v3/PricingModel/src/main/java/model/ProductManagement/ProductCatalog.java
+/Users/aravindravi/Desktop/Masters/Backup Git/v3/PricingModel/src/main/java/model/UserAccountManagement/Role.java
+/Users/aravindravi/Desktop/Masters/Backup Git/v3/PricingModel/src/main/java/model/Business/ConfigurationLoader.java
+/Users/aravindravi/Desktop/Masters/Backup Git/v3/PricingModel/src/main/java/model/ProductManagement/ProductSummary.java
